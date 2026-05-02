@@ -16,14 +16,12 @@ Currently targeting Data Scientist and AI Engineer roles.
 **Deploy:** Streamlit · FastAPI · Docker · GitHub Actions  
 
 ## 📌 Featured Projects
-| Project | Problem | Tech | Result |
-|---|---|---|---|
-**InsightBoard:
+**InsightBoard:**
 - Designed and executed SQL-based root cause analysis across 3 years of Blinkit transaction data (6 categories, 2M+ rows); 
 - identified 4 specific revenue leakage patterns totalling ~20% of GMV — including dead SKU retention and regional margin compression.
 - Reduced business reporting cycle from 4+ hours of manual Excel work to a fully automated Streamlit dashboard with drill-down filters
 
-**FarmEase:
+**FarmEase:**
 - Built production-ready RAG pipeline for multilingual (Hindi/Marathi/English) 
 - crop advisory using LangChain + ChromaDB, grounding responses in live Agmarknet pricing and Open-Meteo weather data with <2s latency.
 - Containerized full-stack application (FastAPI + Flask + PostgreSQL) with Docker Compose
